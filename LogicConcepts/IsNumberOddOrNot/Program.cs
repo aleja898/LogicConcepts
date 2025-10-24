@@ -22,7 +22,7 @@ do
     }
     else
         {
-            Console.WriteLine($"Lo que ingresaste: {numberString}, no es un número entero";
+            Console.WriteLine($"Lo que ingresaste: {numberString}, no es un número entero");
         }
 } while (numberString != "S");
 Console.WriteLine("GAME OVER");
